@@ -26,21 +26,21 @@ export default class Command extends BaseCommand {
             mimetype: Mimetype.gif,
             caption: `-🄵🅄🄽 🄻🄸🅂🅃 🧣
 ──────────────
-🧧 ${this.client.config.prefix}ᴄʜᴇꜱꜱ
-🧧 ${this.client.config.prefix}Qᴜᴏᴛᴇ
-🧧 ${this.client.config.prefix}ʀᴇᴀᴄᴛ
-🧧 ${this.client.config.prefix}ᴛʀɪɢɢᴇʀ
-🧧 ${this.client.config.prefix}ᴛʀᴜᴛʜ
-🧧 ${this.client.config.prefix}ᴄʜᴀᴛ
-🧧 ${this.client.config.prefix}ᴅᴀʀᴇ
-🧧 ${this.client.config.prefix}ꜰᴀᴄᴛ
-🧧 ${this.client.config.prefix}ꜱᴀꜰᴇᴊᴏᴋᴇ
-🧧 ${this.client.config.prefix}ꜱʜɪᴘ
-🧧 ${this.client.config.prefix}ᴛʀɪᴠɪᴀ
-🧧 ${this.client.config.prefix}JAIL
-🧧 ${this.client.config.prefix}WANTED
-🧧 ${this.client.config.prefix}RIP
-🧧 ${this.client.config.prefix}TRASH
+🎗️ ${this.client.config.prefix}ᴄʜᴇꜱꜱ
+🎗️ ${this.client.config.prefix}Qᴜᴏᴛᴇ
+🎗️ ${this.client.config.prefix}ʀᴇᴀᴄᴛ
+🎗️ ${this.client.config.prefix}ᴛʀɪɢɢᴇʀ
+🎗️ ${this.client.config.prefix}ᴛʀᴜᴛʜ
+🎗️ ${this.client.config.prefix}ᴄʜᴀᴛ
+🎗️ ${this.client.config.prefix}ᴅᴀʀᴇ
+🎗️ ${this.client.config.prefix}ꜰᴀᴄᴛ
+🎗️ ${this.client.config.prefix}ꜱᴀꜰᴇᴊᴏᴋᴇ
+🎗️ ${this.client.config.prefix}ꜱʜɪᴘ
+🎗️ ${this.client.config.prefix}ᴛʀɪᴠɪᴀ
+🎗️ ${this.client.config.prefix}JAIL
+🎗️ ${this.client.config.prefix}WANTED
+🎗️ ${this.client.config.prefix}RIP
+🎗️ ${this.client.config.prefix}TRASH
 ──────────────` }
         )
     }
