@@ -26,16 +26,27 @@ export default class Command extends BaseCommand {
             mimetype: Mimetype.gif,
             caption: `📝 ɴᴏᴛᴇꜱ
 
-〽 ᴛʜɪꜱ ɪꜱ ᴀ ʀɪɴ-ʙᴏᴛᴛᴏ!
+(❤️ω❤️) Konichiwa👋 I'm ɴᴇᴢᴜᴋᴏ-ᴄʜᴀɴ!
 
-🧧 ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ɪꜱꜱᴜᴇꜱ ᴡɪᴛʜ ᴛʜᴇ ʙᴏᴛ ᴏʀ ᴀɴʏ ᴇʀʀᴏʀ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ʙᴏᴛ ᴏᴡɴᴇʀ. ᴛʏᴘᴇ " ${this.client.config.prefix}ᴏᴡɴᴇʀ " ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ!
+🧧 ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ɪꜱꜱᴜᴇꜱ ᴡɪᴛʜ ɴᴇᴢᴜᴋᴏ-ᴄʜᴀɴ ᴏʀ ᴀɴʏ ᴇʀʀᴏʀ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ʙᴏᴛ ᴏᴡɴᴇʀ. ᴛʏᴘᴇ " ${this.client.config.prefix}ᴏᴡɴᴇʀ " ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ!
 
-🎗 ᴘʀᴇꜰɪx - ${this.client.config.prefix}
+🔰 ᴘʀᴇꜰɪx - ${this.client.config.prefix}
 ────────────────
 -🄶🄴🄽🄴🅁🄰🄻 🧣
 
 🎐 ${this.client.config.prefix}Ｈｅｌｐ1 [${this.client.config.prefix}ｈ１]
-
+⚡/ᴀᴅᴍɪɴs
+⚡/ᴇᴠᴇʀʏᴏɴᴇ
+⚡/ᴍᴏᴅs
+⚡/ᴘʀᴏғɪʟᴇ
+⚡/ʀᴀɴᴋ
+⚡/xᴘ
+⚡/ɪɴᴠɪᴛᴇʟɪɴᴋ
+⚡/ᴅᴇʟᴇᴛᴇ
+⚡/ʀᴇᴛʀɪᴇᴠᴇ
+⚡/ʜɪ
+⚡/ʀɪɴ
+────────────────
 -🅆🄴🄴🄱🅂 🧣
 
 🎐 ${this.client.config.prefix}Ｈｅｌｐ2 [${this.client.config.prefix}ｈ2]
@@ -65,13 +76,11 @@ export default class Command extends BaseCommand {
 🎐 ${this.client.config.prefix}Ｈｅｌｐ8 [${this.client.config.prefix}ｈ8]
 
 ────────────────
- ──❅┈[ ᖇᎥᑎ ᗷᗝ丅 ]┈❅───
+ ──❅┈[ ɴᴇᴢᴜᴋᴏ ]┈❅───
 ┌────────────┈❅
-│   🧨 ᖇᎥᑎ
-│   ©️ Synthesized Infinity Botto
+│(❤️ω❤️)Nezuko
 └────────────┈⁂
-❅┈[𝐇𝐚𝐯𝐞 𝐆𝐫𝐞𝐚𝐭 𝐃𝐚𝐲]┈❅
-🎗 *Note: Use ${this.client.config.prefix}help <command_name> to view the command info*` }
+ᵇʸ ᵗᵒˢʰⁱʳᵒ-ᶜʰᵉʸ*` }
         )
     }
 }
