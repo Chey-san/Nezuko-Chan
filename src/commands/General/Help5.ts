@@ -26,16 +26,16 @@ export default class Command extends BaseCommand {
             mimetype: Mimetype.gif,
             caption: `-🅄🅃🄸🄻🅂 🄻🄸🅂🅃 🧣
 ──────────────
-🧧 ${this.client.config.prefix}ʙʟᴜʀ
-🧧 ${this.client.config.prefix}ᴋɪᴛᴛᴇɴ
-🧧 ${this.client.config.prefix}ꜱᴛɪᴄᴋᴇʀ
-🧧 ${this.client.config.prefix}ꜱᴜʙʀᴇᴅ
-🧧 ${this.client.config.prefix}ɢᴇᴛɢɪꜰ
-🧧 ${this.client.config.prefix}ꜱᴄʀᴇᴇɴꜱʜᴏᴛ
-🧧 ${this.client.config.prefix}ꜱᴛᴇᴀʟ
-🧧 ${this.client.config.prefix}ᴛʀᴀɴꜱʟᴀᴛᴇ
-🧧 ${this.client.config.prefix}ᴡɪᴋɪᴘᴇᴅɪᴀ
-🧧 ${this.client.config.prefix}CIRCLE
+🌈 ${this.client.config.prefix}ʙʟᴜʀ
+🌈 ${this.client.config.prefix}ᴋɪᴛᴛᴇɴ
+🌈 ${this.client.config.prefix}ꜱᴛɪᴄᴋᴇʀ
+🌈 ${this.client.config.prefix}ꜱᴜʙʀᴇᴅ
+🌈 ${this.client.config.prefix}ɢᴇᴛɢɪꜰ
+🌈 ${this.client.config.prefix}ꜱᴄʀᴇᴇɴꜱʜᴏᴛ
+🌈 ${this.client.config.prefix}ꜱᴛᴇᴀʟ
+🌈 ${this.client.config.prefix}ᴛʀᴀɴꜱʟᴀᴛᴇ
+🌈 ${this.client.config.prefix}ᴡɪᴋɪᴘᴇᴅɪᴀ
+🌈 ${this.client.config.prefix}CIRCLE
 ──────────────` }
         )
     }
