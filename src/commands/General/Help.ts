@@ -19,7 +19,7 @@ export default class Command extends BaseCommand {
 
     run = async (M: ISimplifiedMessage): Promise<void> => {
         const n = [
-            './assets/Rin/rin.mp4','./assets/Rin/rin-1.mp4','./assets/Rin/rin-2.mp4','./assets/Rin/rin-3.mp4','./assets/Rin/rin-4.mp4','./assets/Rin/rin-5.mp4','./assets/Rin/rin-6.mp4'
+            './assets/Rin/rin.mp4'
         ]
         let well = n[Math.floor(Math.random() * n.length)]
         return void this.client.sendMessage(M.from, { url: well }, MessageType.video, {quoted:M.WAMessage,
@@ -145,7 +145,21 @@ export default class Command extends BaseCommand {
 -🄽🅂🄵🅆 🧣
 
 🎐 ${this.client.config.prefix}Ｈｅｌｐ8 [${this.client.config.prefix}ｈ8]
-
+🔮/ᴀɴᴀʟ
+🔮/ʙʟᴏᴡᴊᴏʙ
+🔮/ɴꜱꜰᴡᴅᴏᴜᴊɪɴ
+🔮/ɴꜱꜰᴡʟᴏʟɪ
+🔮/ɴꜱꜰᴡᴘᴀᴘᴇʀ
+🔮/ᴛʜɪɢʜꜱ
+🔮/ʜᴇɴᴛᴀɪ
+🔮/ᴍᴀɪᴅ
+🔮/ᴍᴀꜱᴛᴜʀʙᴀᴛɪᴏɴ
+🔮/ɴᴄᴏᴅᴇ
+🔮/ɴꜱꜰᴡ-ᴡᴀɪꜰᴜ
+🔮/ɴꜱꜰᴡᴊᴏᴋᴇ
+🔮/ɴꜱꜰᴡ-ɴᴇᴋᴏ
+🔮/ᴘᴜꜱꜱʏ
+🔮/ᴛʀᴀᴘ
 ────────────────
 ──❅┈[ ɴᴇᴢᴜᴋᴏ ]┈❅───
 ┌────────────┈❅
