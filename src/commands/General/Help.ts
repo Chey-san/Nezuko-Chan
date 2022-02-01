@@ -72,7 +72,22 @@ export default class Command extends BaseCommand {
 -🄵🅄🄽 🧣
 
 🎐 ${this.client.config.prefix}Ｈｅｌｐ3 [${this.client.config.prefix}ｈ3]
-
+🎗️/ᴄʜᴇꜱꜱ
+🎗️/Qᴜᴏᴛᴇ
+🎗️/ʀᴇᴀᴄᴛ
+🎗️/ᴛʀɪɢɢᴇʀ
+🎗️/ᴛʀᴜᴛʜ
+🎗️/ᴄʜᴀᴛ
+🎗️/ᴅᴀʀᴇ
+🎗️/ꜰᴀᴄᴛ
+🎗️/ꜱᴀꜰᴇᴊᴏᴋᴇ
+🎗️/sʜɪᴘ
+🎗️/ᴛʀɪᴠɪᴀ
+🎗️/ᴊᴀɪʟ
+🎗️/ᴡᴀɴᴛᴇᴅ
+🎗️/ʀɪᴘ
+🎗️/ᴛʀᴀsʜ
+────────────────
 -🄼🄴🄳🄸🄰 🧣
 
  🎐 ${this.client.config.prefix}Ｈｅｌｐ4 [${this.client.config.prefix}ｈ4]
@@ -94,9 +109,9 @@ export default class Command extends BaseCommand {
 🎐 ${this.client.config.prefix}Ｈｅｌｐ8 [${this.client.config.prefix}ｈ8]
 
 ────────────────
- ──❅┈[ ɴᴇᴢᴜᴋᴏ ]┈❅───
+──❅┈[ ɴᴇᴢᴜᴋᴏ ]┈❅───
 ┌────────────┈❅
-│(❤️ω❤️)Nezuko
+│(❤️ω❤️)Nezuko-chan
 └────────────┈⁂
 ᵇʸ ᵗᵒˢʰⁱʳᵒ-ᶜʰᵉʸ*` }
         )
