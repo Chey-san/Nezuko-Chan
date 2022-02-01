@@ -36,9 +36,9 @@ export default class Command extends BaseCommand {
                 }
             }
             let text = `
-╭─「(づ￣ 3￣)づ」
+╭─(❤️ω❤️) Konichiwa👋 I'm Nezuko
 │⋊ ᴜꜱᴇʀ: *${M.sender.username}*
-│⋊ ɴᴀᴍᴇ: ᖇᎥᑎ
+│⋊ ɴᴀᴍᴇ: Nezuko
 │⋊ ᴘʀᴇꜰɪx: ${this.client.config.prefix}
 │⋊ ᴏᴡɴᴇʀ: <${this.client.config.prefix}mod>
 ╰────────────┈平和                            \n\n`
@@ -52,10 +52,9 @@ export default class Command extends BaseCommand {
             return void this.client.sendMessage(M.from, { url: rin }, MessageType.video, {quoted:M.WAMessage,
             mimetype: Mimetype.gif,
             caption: `${text}
- ──❅┈[ ᖇᎥᑎ ᗷᗝ丅 ]┈❅───
+ ──❅┈[ Nezuko ]┈❅───
 ┌────────────┈❅
-│   🧨 ᖇᎥᑎ
-│   ©️ Synthesized Infinity Botto
+│(❤️ω❤️)Nezuko Botto
 └────────────┈⁂
 ❅┈[𝐇𝐚𝐯𝐞 𝐆𝐫𝐞𝐚𝐭 𝐃𝐚𝐲]┈❅
 🎗 *Note: Use ${this.client.config.prefix}help <command_name> to view the command info*` }
