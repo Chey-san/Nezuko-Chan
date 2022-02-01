@@ -50,7 +50,25 @@ export default class Command extends BaseCommand {
 -🅆🄴🄴🄱🅂 🧣
 
 🎐 ${this.client.config.prefix}Ｈｅｌｐ2 [${this.client.config.prefix}ｈ2]
-
+🔰/ᴀɴɪᴍᴇ
+🔰/ᴀɴɪᴍᴇQᴜᴏᴛᴇ
+🔰/ᴀɴɪᴍᴇᴄʜᴀʀ
+🔰/ɢᴇɴꜱʜɪɴᴄʜᴀʀᴀᴄᴛᴇ
+🔰/ʜᴜꜱʙᴀɴᴅᴏ
+🔰/ʟᴏʟɪ
+🔰/ᴍᴀɴɢᴀ
+🔰/ᴘᴏᴋᴇᴍᴏɴ
+🔰/ʀᴘᴀᴘᴇʀ
+🔰/ᴠᴛᴜʙᴇʀ
+🔰/ᴡᴀɪꜰᴜ
+🔰/ᴀᴍᴇᴍᴇ
+🔰/ᴄʜᴀʀᴀᴄᴛᴇʀ
+🔰/ᴄʀᴏꜱꜱᴘʟᴀʏ
+🔰/ʜᴀɪɢᴜꜱʜᴀ
+🔰/ʀᴇᴄᴏᴍᴍᴇɴᴅ
+🔰/ꜱᴀᴜᴄᴇ
+🔰/ᴡᴀʟʟᴘᴀᴘᴇʀ
+────────────────
 -🄵🅄🄽 🧣
 
 🎐 ${this.client.config.prefix}Ｈｅｌｐ3 [${this.client.config.prefix}ｈ3]
