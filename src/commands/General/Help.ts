@@ -105,7 +105,17 @@ export default class Command extends BaseCommand {
 -🅄🅃🄸🄻🅂 🧣
 
  🎐 ${this.client.config.prefix}Ｈｅｌｐ5 [${this.client.config.prefix}ｈ5]
-
+🌈/ʙʟᴜʀ
+🌈/ᴋɪᴛᴛᴇɴ
+🌈/ꜱᴛɪᴄᴋᴇʀ
+🌈/ꜱᴜʙʀᴇᴅ
+🌈/ɢᴇᴛɢɪꜰ
+🌈/ꜱᴄʀᴇᴇɴꜱʜᴏᴛ
+🌈/ꜱᴛᴇᴀʟ
+🌈/ᴛʀᴀɴꜱʟᴀᴛᴇ
+🌈/ᴡɪᴋɪᴘᴇᴅɪᴀ
+🌈/ᴄɪʀᴄʟᴇ
+────────────────
 -🄼🄾🄳🄴🅁🄰🅃🄸🄾🄽 🧣
 
 🎐 ${this.client.config.prefix}Ｈｅｌｐ6 [${this.client.config.prefix}ｈ6]
