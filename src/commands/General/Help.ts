@@ -50,6 +50,7 @@ export default class Command extends BaseCommand {
 -🅆🄴🄴🄱🅂 🧣
 
 🎐 ${this.client.config.prefix}Ｈｅｌｐ2 [${this.client.config.prefix}ｈ2]
+────────────────
 🔰/ᴀɴɪᴍᴇ
 🔰/ᴀɴɪᴍᴇQᴜᴏᴛᴇ
 🔰/ᴀɴɪᴍᴇᴄʜᴀʀ
@@ -72,6 +73,7 @@ export default class Command extends BaseCommand {
 -🄵🅄🄽 🧣
 
 🎐 ${this.client.config.prefix}Ｈｅｌｐ3 [${this.client.config.prefix}ｈ3]
+────────────────
 🎗️/ᴄʜᴇꜱꜱ
 🎗️/Qᴜᴏᴛᴇ
 🎗️/ʀᴇᴀᴄᴛ
@@ -90,7 +92,8 @@ export default class Command extends BaseCommand {
 ────────────────
 -🄼🄴🄳🄸🄰 🧣
 
- 🎐 ${this.client.config.prefix}Ｈｅｌｐ4 [${this.client.config.prefix}ｈ4]
+🎐 ${this.client.config.prefix}Ｈｅｌｐ4 [${this.client.config.prefix}ｈ4]
+────────────────
 •/ɪɢ
 •/ᴘʟᴀʏ
 •/ꜱᴘᴏᴛɪꜰʏ
@@ -104,7 +107,8 @@ export default class Command extends BaseCommand {
 ────────────────
 -🅄🅃🄸🄻🅂 🧣
 
- 🎐 ${this.client.config.prefix}Ｈｅｌｐ5 [${this.client.config.prefix}ｈ5]
+🎐 ${this.client.config.prefix}Ｈｅｌｐ5 [${this.client.config.prefix}ｈ5]
+────────────────
 🌈/ʙʟᴜʀ
 🌈/ᴋɪᴛᴛᴇɴ
 🌈/ꜱᴛɪᴄᴋᴇʀ
@@ -119,6 +123,7 @@ export default class Command extends BaseCommand {
 -🄼🄾🄳🄴🅁🄰🅃🄸🄾🄽 🧣
 
 🎐 ${this.client.config.prefix}Ｈｅｌｐ6 [${this.client.config.prefix}ｈ6]
+────────────────
 🚀/ᴀᴄᴛɪᴠᴀᴛᴇ
 🚀/ᴅᴇᴀᴄᴛɪᴠᴀᴛᴇ
 🚀/ᴅᴇᴍᴏᴛᴇ
@@ -134,6 +139,7 @@ export default class Command extends BaseCommand {
 -🄴🄳🅄🄲🄰🅃🄸🅅🄴 🧣
 
 🎐 ${this.client.config.prefix}Ｈｅｌｐ7 [${this.client.config.prefix}ｈ7]
+────────────────
 🧧/ᴄᴀʟᴄᴜʟᴀᴛᴏʀ
 🧧/ᴄᴏᴠɪᴅ
 🧧/ᴅᴇꜰɪɴᴇ
@@ -145,6 +151,7 @@ export default class Command extends BaseCommand {
 -🄽🅂🄵🅆 🧣
 
 🎐 ${this.client.config.prefix}Ｈｅｌｐ8 [${this.client.config.prefix}ｈ8]
+────────────────
 🔮/ᴀɴᴀʟ
 🔮/ʙʟᴏᴡᴊᴏʙ
 🔮/ɴꜱꜰᴡᴅᴏᴜᴊɪɴ
