@@ -45,19 +45,11 @@ Button : If you are deploying from a fork
     `yarn run prettier-format` before opening PRs
 ## Give a ⭐ if this project helped you
 
-## 🚀Some WhatsApp bots are recommended🚀
-<details>
-<summary>Click Here</summary>
-
-![Kaoi][![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PrajjwalDatir&repo=Kaoi&theme=buefy)](https://github.com/PrajjwalDatir/kaoi)
-
-![Chitoge][![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShineiIchijo&repo=Chitoge&theme=buefy)](https://github.com/ShinNouzen/Chitoge)
-
 -------
 
-[![Orki](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Toshiro](https://github.com/ToshiroHitsugaya223.png?size=100)](https://github.com/ToshiroHitsugaya223/Ichigo-wabot)
+[![Oreki](https://github.com/Oreki-san.png?size=100)](https://github.com/Oreki-san) | [![Toshiro](https://github.com/ToshiroHitsugaya223.png?size=100)](https://github.com/ToshiroHitsugaya223/Ichigo-wabot)
 ----|----
-[Nurutomo](https://github.com/Nurutomo) | [Toshiro](https://github.com/ToshiroHitsugaya223/Ichigo-wabot)
+[Oreki](https://github.com/Oreki-san) | [Toshiro](https://github.com/ToshiroHitsugaya223/Nezuko-Chan)
 Author / Creator | Editor
  
 
