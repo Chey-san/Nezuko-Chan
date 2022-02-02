@@ -32,11 +32,6 @@ Button : If you are deploying from a fork
 -   Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best
     WhatsApp Library Out There)
 
-## 💻 Deploy/Hosting Guide
-
--   Section Moved to
-    [RIN-Guides](https://github.com/Oreki-san/Eru-Guide/blob/main/README.md)
-
 ## 🍥 Features of the Repo
 
 -   To view all features, click
