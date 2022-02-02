@@ -53,5 +53,17 @@ Button : If you are deploying from a fork
 
 ![Chitoge][![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShineiIchijo&repo=Chitoge&theme=buefy)](https://github.com/ShinNouzen/Chitoge)
 
+-------
 
+[![Orki](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Toshiro](https://github.com/ToshiroHitsugaya223.png?size=100)](https://github.com/ToshiroHitsugaya223/Ichigo-wabot)
+----|----
+[Nurutomo](https://github.com/Nurutomo) | [Toshiro](https://github.com/ToshiroHitsugaya223/Ichigo-wabot)
+Author / Creator | Editor
+ 
+
+
+
+Don't forget to give it a star 🌟
+
+Best regards: Nezuko
 
