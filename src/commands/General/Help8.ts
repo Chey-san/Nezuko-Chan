@@ -54,6 +54,7 @@ export default class Command extends BaseCommand {
 🔮 ${this.client.config.prefix}keta
 🔮 ${this.client.config.prefix}boobs
 🔮 ${this.client.config.prefix}succubus
+🔮 ${this.client.config.prefix}mifi
 🔮 
 ──────────────` }
         )
