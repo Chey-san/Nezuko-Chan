@@ -47,6 +47,7 @@ export default class Command extends BaseCommand {
 🔮 ${this.client.config.prefix}uniform
 🔮 ${this.client.config.prefix}erok
 🔮 ${this.client.config.prefix}erofeet
+🔮 ${this.client.config.prefix}hgif
 ──────────────` }
         )
     }
