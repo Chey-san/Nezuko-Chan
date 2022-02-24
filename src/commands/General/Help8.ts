@@ -60,6 +60,7 @@ export default class Command extends BaseCommand {
 🔮 ${this.client.config.prefix}nsfwkitsune
 🔮 ${this.client.config.prefix}rhentai
 🔮 ${this.client.config.prefix}nnekogif
+🔮 ${this.client.config.prefix}nhentai
 💫ENJOY_PERVERTS😳
 ──────────────` }
         )
