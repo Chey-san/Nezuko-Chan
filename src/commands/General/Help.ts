@@ -108,6 +108,7 @@ export default class Command extends BaseCommand {
 •/karaoke
 •/igdl
 •/iguser
+•/advice
 ────────────────
 -🅄🅃🄸🄻🅂 🧣
 
