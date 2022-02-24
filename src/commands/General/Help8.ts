@@ -50,6 +50,7 @@ export default class Command extends BaseCommand {
 🔮 ${this.client.config.prefix}hgif
 🔮 ${this.client.config.prefix}bsdm
 🔮 ${this.client.config.prefix}panties
+🔮 ${this.client.config.prefix}femdom
 ──────────────` }
         )
     }
