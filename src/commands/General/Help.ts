@@ -75,21 +75,22 @@ export default class Command extends BaseCommand {
 
 🎐 ${this.client.config.prefix}Ｈｅｌｐ3 [${this.client.config.prefix}ｈ3]
 ────────────────
-🎗️/ᴄʜᴇꜱꜱ
-🎗️/Qᴜᴏᴛᴇ
-🎗️/ʀᴇᴀᴄᴛ
-🎗️/ᴛʀɪɢɢᴇʀ
-🎗️/ᴛʀᴜᴛʜ
-🎗️/ᴄʜᴀᴛ
-🎗️/ᴅᴀʀᴇ
-🎗️/ꜰᴀᴄᴛ
-🎗️/ꜱᴀꜰᴇᴊᴏᴋᴇ
-🎗️/sʜɪᴘ
-🎗️/ᴛʀɪᴠɪᴀ
-🎗️/ᴊᴀɪʟ
-🎗️/ᴡᴀɴᴛᴇᴅ
-🎗️/ʀɪᴘ
-🎗️/ᴛʀᴀsʜ
+🍒/ᴄʜᴇꜱꜱ
+🍒/Qᴜᴏᴛᴇ
+🍒/ʀᴇᴀᴄᴛ
+🍒/ᴛʀɪɢɢᴇʀ
+🍒/ᴛʀᴜᴛʜ
+🍒/ᴄʜᴀᴛ
+🍒/ᴅᴀʀᴇ
+🍒/ꜰᴀᴄᴛ
+🍒/ꜱᴀꜰᴇᴊᴏᴋᴇ
+🍒/sʜɪᴘ
+🍒/ᴛʀɪᴠɪᴀ
+🍒/ᴊᴀɪʟ
+🍒/ᴡᴀɴᴛᴇᴅ
+🍒/ʀɪᴘ
+🍒/ᴛʀᴀsʜ
+🍒/advice
 ────────────────
 -🄼🄴🄳🄸🄰 🧣
 
@@ -108,7 +109,6 @@ export default class Command extends BaseCommand {
 •/karaoke
 •/igdl
 •/iguser
-•/advice
 ────────────────
 -🅄🅃🄸🄻🅂 🧣
 
@@ -172,7 +172,7 @@ export default class Command extends BaseCommand {
 🔮/ɴꜱꜰᴡ-ɴᴇᴋᴏ
 🔮/ᴘᴜꜱꜱʏ
 🔮/ᴛʀᴀᴘ
-Type /help8 for more fun🔞
+🔮Type /help8 for more stuff🔞
 ────────────────
 ──❅┈[ ɴᴇᴢᴜᴋᴏ ]┈❅───
 ┌────────────┈❅
