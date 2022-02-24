@@ -56,7 +56,11 @@ export default class Command extends BaseCommand {
 🔮 ${this.client.config.prefix}succubus
 🔮 ${this.client.config.prefix}mifi
 🔮 ${this.client.config.prefix}cum
-🔮 ${client.config.prefix}spank
+🔮 ${this.client.config.prefix}spank
+🔮 ${this.client.config.prefix}nsfwkitsune
+🔮 ${this.client.config.prefix}rhentai
+🔮 ${this.client.config.prefix}nnekogif
+💫ENJOY_PERVERTS😳
 ──────────────` }
         )
     }
