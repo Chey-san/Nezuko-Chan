@@ -56,6 +56,7 @@ export default class Command extends BaseCommand {
 🔮 ${this.client.config.prefix}succubus
 🔮 ${this.client.config.prefix}mifi
 🔮 ${this.client.config.prefix}cum
+🔮 ${client.config.prefix}spank
 ──────────────` }
         )
     }
