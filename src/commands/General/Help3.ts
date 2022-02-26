@@ -42,6 +42,7 @@ export default class Command extends BaseCommand {
 🍒 ${this.client.config.prefix}RIP
 🍒 ${this.client.config.prefix}TRASH
 🍒 ${this.client.config.prefix}advice
+🍒 ${this.client.config.prefix}micon
 ──────────────` }
         )
     }
