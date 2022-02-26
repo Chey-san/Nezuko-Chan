@@ -94,6 +94,7 @@ export default class Command extends BaseCommand {
 🍒/ʀɪᴘ
 🍒/ᴛʀᴀsʜ
 🍒/advice
+🍒/micon
 ────────────────
 -🄼🄴🄳🄸🄰 🧣
 
