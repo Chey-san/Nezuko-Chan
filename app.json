@@ -1,6 +1,6 @@
 {
   "name": "Nezuko",
-  "description": "A WhatsApp Bot With Rich Anime Features. ",
+  "description": "A WhatsApp Bot With Rich Anime Feature. ",
   "keywords": [
       "bot",
       "whatsapp",
@@ -45,7 +45,7 @@
           "description": "A key used for gif searches",
           "required": false
       },
-      "GENIUS_KEY": {
+      "GENIUS_KEYY": {
           "description": "Your access token of genius.com to fetch the lyrics",
           "required": false
       },
