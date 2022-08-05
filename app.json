@@ -56,7 +56,7 @@
       "MAL_PASSWORD": {
           "description": "Your password for myanimelist.net to make anime and manga search",
           "required": false
-      }
+      
   },
   "buildpacks": [
       {
